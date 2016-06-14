@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Grahk Talk]]></title>
-  <link href="http://grahk93.github.io/atom.xml" rel="self"/>
-  <link href="http://grahk93.github.io/"/>
-  <updated>2016-06-14T16:01:41-04:00</updated>
-  <id>http://grahk93.github.io/</id>
-  <author>
-    <name><![CDATA[Grace Juster]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+	<title><![CDATA[Grahk Talk]]></title>
+	<link href="http://grahk93.github.io/atom.xml" rel="self"/>
+	<link href="http://grahk93.github.io/"/>
+	<updated>2016-06-14T16:12:37-04:00</updated>
+	<id>http://grahk93.github.io/</id>
+	<author>
+		<name><![CDATA[Grace Juster]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[My First Post on Octopress]]></title>
-    <link href="http://grahk93.github.io/blog/2016/06/14/my-first-post-on-octopress/"/>
-    <updated>2016-06-14T15:50:36-04:00</updated>
-    <id>http://grahk93.github.io/blog/2016/06/14/my-first-post-on-octopress</id>
-    <content type="html"><![CDATA[<p>&ldquo;Hello World!&rdquo;</p>
-]]></content>
-  </entry>
-  
+	
+	<entry>
+		
+			<title type="html"><![CDATA[My First Post On Octopress]]></title>
+		
+		<link href="http://grahk93.github.io/blog/2016/06/14/my-first-post-on-octopress/"/>
+		<updated>2016-06-14T15:50:36-04:00</updated>
+		<id>http://grahk93.github.io/blog/2016/06/14/my-first-post-on-octopress</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>&ldquo;Hello World!&rdquo;</p>
+]]>
+		</content>
+	</entry>
+	
 </feed>
